@@ -70,7 +70,7 @@ Passing AI-900 isn’t hard, but **understanding the concepts and getting hands-
 - Focus on **Azure AI Services, Responsible AI, and ML concepts**.
 
 🔗 **Dumps:**
-
+https://github.com/Reyajosephine/AI-900-Road-map/tree/main
 
 
 🎯 **Final Tip:** AI-900 is all about **understanding use cases**. If you know **when & where to use Azure AI services**, you’ll ace it!
@@ -108,6 +108,8 @@ Many people take AI-900 just to flex on LinkedIn. But the **real value** comes f
  🔗 [Udemy Practice Tests](https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-course/)
 
  🔗 [Microsoft VTD (50% exam voucher)](https://events.microsoft.com/en-us/mvtd)
+
+ 🔗 [Dumps](https://github.com/Reyajosephine/AI-900-Road-map/tree/main)
 
 
 🚀 If you’re planning to take AI-900 soon, this is all you need—go for it!
