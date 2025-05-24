@@ -67,7 +67,11 @@ Passing AI-900 isn’t hard, but **understanding the concepts and getting hands-
 ✅ **Action Plan:**
 - Review **your notes + Microsoft Learn summaries**.  
 - Take one last **full-length practice test**.  
-- Focus on **Azure AI Services, Responsible AI, and ML concepts**.  
+- Focus on **Azure AI Services, Responsible AI, and ML concepts**.
+
+🔗 **Dumps:**
+
+
 
 🎯 **Final Tip:** AI-900 is all about **understanding use cases**. If you know **when & where to use Azure AI services**, you’ll ace it!
 
@@ -93,17 +97,17 @@ Many people take AI-900 just to flex on LinkedIn. But the **real value** comes f
 
 ## 📌 Resources I Used:
 
- 🔗 [**Microsoft Learn Module**] (https://learn.microsoft.com/en-us/plans/8pkkiy5x76oy7y?tab=tab-created&learnerGroupId=990be257-3c4a-4c46-9bef-7b5a96647c93&wt.mc_id=studentamb_455826)
+ 🔗 [Microsoft Learn Module](https://learn.microsoft.com/en-us/plans/8pkkiy5x76oy7y?tab=tab-created&learnerGroupId=990be257-3c4a-4c46-9bef-7b5a96647c93&wt.mc_id=studentamb_455826)
 
- 🔗 [**FreeCodeCamp AI-900 Video**] (https://youtu.be/hHjmr_YOqnU?si=hJk-jyGWUX1uoUHH)
+ 🔗 [FreeCodeCamp AI-900 Video](https://youtu.be/hHjmr_YOqnU?si=hJk-jyGWUX1uoUHH)
 
- 🔗 [**KodeKloud AI-900 Video**] (https://learn.kodekloud.com/user/courses/ai-900-microsoft-azure-ai-fundamental)
+ 🔗 [KodeKloud AI-900 Video](https://learn.kodekloud.com/user/courses/ai-900-microsoft-azure-ai-fundamental)
 
- 🔗 [**POC'S**] (https://github.com/Reyajosephine/Azure-AI-900-30-days-Challenge)
+ 🔗 [POC'S](https://github.com/Reyajosephine/Azure-AI-900-30-days-Challenge)
 
- 🔗 [**Udemy Practice Tests**] (https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-course/)
+ 🔗 [Udemy Practice Tests](https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-course/)
 
- 🔗 [**Microsoft VTD (50% exam voucher)**] (https://events.microsoft.com/en-us/mvtd)
+ 🔗 [Microsoft VTD (50% exam voucher)](https://events.microsoft.com/en-us/mvtd)
 
 
 🚀 If you’re planning to take AI-900 soon, this is all you need—go for it!
